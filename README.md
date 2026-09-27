@@ -12,6 +12,12 @@ Alegre 🇧🇷. Also known as **Joan Osunde**.
 - 🌍 Benin City ↔ Porto Alegre · English & Portuguese
 - 📫 admin@upsshub.com
 
+#### Selected work
+
+- **[TeachConnect](https://teachconnect.ng/)** — teacher recruitment and tutoring for Nigerian schools and families. My work focuses on making the coordination around teaching easier to manage.
+- **[School Guardian 360](https://schoolguardian360.com/)** — school administration and parent communication, including attendance, fees and report cards.
+- **[Writing](https://joanurevbu.com/writing.html)** — essays about building software for schools and working with limited connectivity.
+
 #### Writing
 
 Essays on building software for schools — the full set is at **[joanurevbu.com/writing](https://joanurevbu.com/writing.html)**:
@@ -31,3 +37,4 @@ Essays on building software for schools — the full set is at **[joanurevbu.com
 #### Elsewhere
 
 [joanurevbu.com](https://joanurevbu.com) · [joanosunde.com](https://joanosunde.com) · [LinkedIn](https://www.linkedin.com/in/joan-urevbu-osunde-3b5aa5205/) · [X](https://x.com/joanurevbu) · [about.me](https://about.me/joanurevbu) · [Gravatar](https://gravatar.com/joanurevbu) · [Chess.com](https://www.chess.com/member/zugzwango)
+
